@@ -1,0 +1,11 @@
+/* Inicio Contenedor*/
+/*Media Querie Table*/
+@media (min-width: 769px) {
+  .sobre-nosotros {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 3rem;
+  }
+}
+
+/* Fin Contenedor*/
